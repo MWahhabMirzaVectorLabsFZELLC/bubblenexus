@@ -1,16 +1,18 @@
 <div align="center">
 
 <a href="https://www.bubblenexus.com">
-  <img src="https://www.bubblenexus.com/bubblenexus.png" alt="Bubblenexus" width="96" height="96">
+  <img src="assets/bubblenexus-logo.png" alt="Bubblenexus logo" width="144">
 </a>
 
 # Bubblenexus
 
-### See the market move.
+### See the whole market move.
 
-**A free visual market intelligence platform for crypto, stocks, and perpetual markets.**
+**Live visual market intelligence for cryptocurrencies, stocks, and perpetual markets.**
 
-[Explore Bubblenexus](https://www.bubblenexus.com) | [Read Market Research](https://www.bubblenexus.com/blog) | [Get Free Widgets](https://www.bubblenexus.com/crypto-widgets)
+[![Website](https://img.shields.io/badge/Explore-bubblenexus.com-087f78?style=for-the-badge)](https://www.bubblenexus.com)
+[![Research](https://img.shields.io/badge/Read-Market_Research-111827?style=for-the-badge)](https://www.bubblenexus.com/blog)
+[![Widgets](https://img.shields.io/badge/Use-Free_Widgets-2563eb?style=for-the-badge)](https://www.bubblenexus.com/crypto-widgets)
 
 </div>
 
@@ -18,49 +20,93 @@
 
 ## About Bubblenexus
 
-Bubblenexus turns complex market data into interactive, easy-to-read bubble maps. Instead of scanning endless tables, users can see market size, price direction, momentum, and major movers at a glance.
+Bubblenexus is a free market visualization and discovery platform designed to make complex financial data easier to understand. It transforms large sets of live market data into interactive bubble maps, helping users recognize momentum, relative market size, gainers, losers, and broader market direction without scanning endless rows of numbers.
 
-The platform brings live market visualization, asset discovery, perpetual DEX analytics, independent crypto coverage, and embeddable widgets together in one experience.
+Each bubble represents an asset. Its size communicates relative scale, while its color shows whether the asset is moving up or down over the selected period. Users can move from a high-level market view into individual asset details, charts, and supporting information in just a few clicks.
 
-## What You Can Explore
+## Platform Highlights
 
-- **Crypto Bubble Map** - Track the top 1,000 cryptocurrencies in a live visual market map.
-- **Stock Market Map** - Explore publicly traded companies through the same intuitive bubble interface.
-- **Perpetual DEX Markets** - Follow markets across [Hyperliquid](https://www.bubblenexus.com/perp-dexs/hyperliquid), [Aster](https://www.bubblenexus.com/perp-dexs/aster), [Lighter](https://www.bubblenexus.com/perp-dexs/lighter), [EdgeX](https://www.bubblenexus.com/perp-dexs/edgex), and [Omni Variational](https://www.bubblenexus.com/perp-dexs/omni-variational).
-- **Coin & Market Details** - Review prices, performance, volume, market capitalization, charts, and supporting market information.
-- **News & Research** - Read independent crypto news, market context, explainers, and research.
-- **Free Website Widgets** - Add live coin prices, top movers, and market breadth data to a website with no signup or API key.
+### Interactive Market Maps
 
-## Built for Fast Market Awareness
+- Visualize the top 1,000 cryptocurrencies in a single live bubble map.
+- Switch between multiple time frames to compare short- and longer-term movement.
+- Explore crypto, memecoin, and stock markets through a consistent visual interface.
+- Open individual assets for prices, performance, volume, market capitalization, charts, and related information.
+- Use a sortable table view when precise side-by-side comparison is preferred.
 
-Bubble size helps communicate relative market scale, while color makes positive and negative movement immediately visible. Flexible time frames and interactive asset views help both active market participants and curious newcomers understand what is moving without losing the bigger picture.
+### Perpetual DEX Intelligence
 
-## Official Links
+Bubblenexus extends its visual approach to decentralized perpetual markets, making it easier to monitor price movement, volume, open interest, funding, and market activity across leading venues:
 
-| | |
+- [Hyperliquid](https://www.bubblenexus.com/perp-dexs/hyperliquid)
+- [Aster](https://www.bubblenexus.com/perp-dexs/aster)
+- [Lighter](https://www.bubblenexus.com/perp-dexs/lighter)
+- [EdgeX](https://www.bubblenexus.com/perp-dexs/edgex)
+- [Omni Variational](https://www.bubblenexus.com/perp-dexs/omni-variational)
+
+The platform also covers emerging on-chain markets, including tokenized assets and selected ecosystem-specific market views.
+
+### News, Research, and Market Context
+
+The [Bubblenexus research hub](https://www.bubblenexus.com/blog) combines independent crypto news, market explainers, educational guides, and research. Live movers and market context connect editorial coverage with the data users are already exploring.
+
+### Free Embeddable Widgets
+
+Publishers, communities, and website owners can add Bubblenexus market data to their own pages without an account or API key.
+
+| Widget | Purpose |
 |---|---|
-| Website | [bubblenexus.com](https://www.bubblenexus.com) |
-| Crypto News & Research | [bubblenexus.com/blog](https://www.bubblenexus.com/blog) |
+| Coin Chip | Compact live price chips for articles, dashboards, tickers, and layouts |
+| Top Movers | A gainers-and-losers table ranked by 24-hour performance |
+| Market Breadth | A visual gauge showing how much of the tracked market is rising or falling |
+
+Explore the widgets and integration guides at [bubblenexus.com/crypto-widgets](https://www.bubblenexus.com/crypto-widgets).
+
+## Designed For
+
+- **Traders** who want to scan market direction and spot unusual movement quickly.
+- **Investors and researchers** looking for a clearer top-down view before deeper analysis.
+- **Crypto newcomers** who find visual market maps more intuitive than dense data tables.
+- **Publishers and creators** who need free, lightweight market widgets for their websites.
+- **Market enthusiasts** following crypto, equities, perpetual DEXs, and on-chain finance in one place.
+
+## Explore Bubblenexus
+
+| Destination | Link |
+|---|---|
+| Main Platform | [bubblenexus.com](https://www.bubblenexus.com) |
+| Stock Market Map | [bubblenexus.com/stocks](https://www.bubblenexus.com/stocks) |
+| Crypto News | [bubblenexus.com/news](https://www.bubblenexus.com/news) |
+| Research & Guides | [bubblenexus.com/blog](https://www.bubblenexus.com/blog) |
 | Free Crypto Widgets | [bubblenexus.com/crypto-widgets](https://www.bubblenexus.com/crypto-widgets) |
-| X | [@bubble_nexus](https://x.com/bubble_nexus) |
-| LinkedIn | [Bubblenexus](https://www.linkedin.com/company/112214979/) |
-| YouTube | [@bubblenexus](https://www.youtube.com/@bubblenexus) |
-| Reddit | [u/bubble-nexus](https://www.reddit.com/user/bubble-nexus/) |
-| Contact | [contact@bubblenexus.com](mailto:contact@bubblenexus.com) |
+| iOS App | [Download on the App Store](https://apps.apple.com/us/app/bubblenexus-crpyto-tracker/id6758075149) |
 
-## Repository Notice
+## Connect With Us
 
-This repository is the official public information page for Bubblenexus. The production source code is proprietary and is not distributed through this repository.
+- X: [@bubble_nexus](https://x.com/bubble_nexus)
+- LinkedIn: [Bubblenexus](https://www.linkedin.com/company/112214979/)
+- YouTube: [@bubblenexus](https://www.youtube.com/@bubblenexus)
+- Reddit: [u/bubble-nexus](https://www.reddit.com/user/bubble-nexus/)
+- Facebook: [Bubblenexus](https://www.facebook.com/profile.php?id=61590649033102)
+- Email: [contact@bubblenexus.com](mailto:contact@bubblenexus.com)
+
+## About This Repository
+
+This is the official public information repository for Bubblenexus. It exists to introduce the platform, document its public product experience, and direct visitors to official Bubblenexus resources.
+
+The production application and its source code are proprietary and are not published in this repository. This repository is not an SDK, API package, or installable software distribution.
 
 ## Disclaimer
 
-Bubblenexus provides market data and editorial content for informational and educational purposes only. Nothing on the platform constitutes financial, investment, legal, or tax advice. Always conduct your own research before making financial decisions.
+Bubblenexus provides market data, visualizations, news, and educational content for informational purposes only. Nothing provided by Bubblenexus constitutes financial, investment, trading, legal, or tax advice. Market data may be delayed, incomplete, or subject to change. Always verify information independently and conduct your own research before making financial decisions.
 
 ---
 
 <div align="center">
 
 **Markets are easier to understand when you can see them.**
+
+[Visit Bubblenexus](https://www.bubblenexus.com)
 
 Copyright 2026 Bubblenexus. All rights reserved.
 
